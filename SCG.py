@@ -37,7 +37,7 @@ def SCG(dataset, K, rounding_strategy, N=None, A=None):
         elif rounding_strategy=='max_obj':
             v_round = round_by_max_obj_one_threshold(v, z, -1, mask, maskA, N)
         elif rounding_strategy=='bansal':
-            v_round = round_by_cc_bansal(1, -1, mask, maskA, N)
+            v_round = round_by_cc_bansal(z, -1, mask, maskA, N)
         # assign to the new cluster(s)
         for i in range(N):
             if v_round[i]==0: continue
