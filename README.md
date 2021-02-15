@@ -1,6 +1,6 @@
 # SCG: Discovering Conflicting Groups in Signed Networks (NeurIPS2020)
 "Discovering Conflicting Groups in Signed Networks", Ruo-Chun Tzeng, Bruno Ordozgoiti, and Aristides Gionis, In Proc. of NeurIPS 2020.
- * [paper](materials/main.pdf), [appendix](materials/appendix.pdf), [video](https://youtu.be/xDCjBeS5uHc).
+ * [paper](https://proceedings.neurips.cc//paper_files/paper/2020/hash/7cc538b1337957dae283c30ad46def38-Abstract.html), [video](https://youtu.be/xDCjBeS5uHc).
 
 ## 1. Dependency
 
