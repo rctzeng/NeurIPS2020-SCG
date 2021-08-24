@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+abstract: "This is the repository for Discovering Conflicting Groups in Signed Networks (NeurIPS 2020)."
+authors:
+  -
+    family-names: Tzeng
+    given-names: "Ruo-Chun"
+    orcid: "https://orcid.org/https://orcid.org/0000-0002-4222-274X"
+cff-version: "1.1.0"
+date-released: 2020-12-08
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/rctzeng/SCG-NeurIPS2020"
+title: "SCG: Discovering Conflicting Groups in Signed Networks"
+...
